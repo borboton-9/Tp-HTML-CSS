@@ -1,0 +1,67 @@
+header{
+    padding: 8px;
+    background-color: rgb(34, 32, 32)
+}
+#header-1{
+    list-style: none
+}
+
+#estilos11{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img-1 {
+    position: relative;
+}
+.tabla-index {
+    position: relative;
+}
+footer{
+    background-color: rgb(34, 32, 32);
+    color: white;
+    padding: 45px;
+}
+#Nosotros{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#Contacto{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#footer-items{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 15px;
+}
+#Redes-Sociales{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color:white
+}
+#formulario-contacto{
+    display: flex;
+    font-family:'Lato', sans-serif;
+    align-items: first baseline;
+    flex-direction: column;
+}
+#ferrari-2025{
+    display: flex;
+    justify-content: space-around;
+}
+#body-servicios{
+    background-color: #660000;
+    color: white;
+}
+#cajas-servicios{
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
